@@ -1,4 +1,4 @@
-# Number-Identification-ann
+# Optical-Character-Recognition-numbers-ann
 
 This project focuses on identifying numbers using Artificial Neural Network implemented in Octave,using 2 layers of the Neural Network. Both the layers have sigmoid activation function.
 
